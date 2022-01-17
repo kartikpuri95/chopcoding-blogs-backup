@@ -2,7 +2,7 @@
 
 I'm 27 years old, started my professional career 4 years back in a startup company, and was involved in a startup for 2 years during my Undergraduate days which sums up to 6 years of combined experience. 
 
-Following are a few points that helped me achieve things professionally and excelled my career growth as a full-stack developer
+Following are a few points that helped me achieve things professionally and excelled my career growth as a full-stack developer.
 
 ### 1. Choosing the right company to work
 
