@@ -53,3 +53,7 @@ A visual generator to build organic-looking shapes with the help of CSS3 border-
 Glassmorphism is a tool that lets you create elements based on the Glassmorphism design.
 
 [https://css.glass/⁣](https://css.glass/⁣) 
+
+Also, you can find me on Twitter where I post more such content on a regular basis
+
+%[https://twitter.com/chopcoding/status/1483672292341153792]
