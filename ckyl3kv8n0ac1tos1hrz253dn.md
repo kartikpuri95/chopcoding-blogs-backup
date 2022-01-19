@@ -5,7 +5,7 @@ I have a habit of storing all the URLs and repositories into my notion template,
 Below is the list of a few CSS utilities that I have used in my projects recently
 
 
-1.  Blobmaker⁣
+1.Blobmaker⁣
 
 Blobmaker is a free generative design tool to help you quickly create random, unique, and organic-looking SVG shapes.⁣
 
