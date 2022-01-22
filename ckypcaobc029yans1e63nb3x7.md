@@ -263,7 +263,7 @@ You can find the code here  [https://github.com/kartikpuri95/pp_token](https://g
 I hope you like this post, you can follow me on twitter for more such updates and do give a reaction
 
 
-%[https://twitter.com/chopcoding]
+%[https://twitter.com/chopcoding/status/1484746863249342464]
 
 
 
