@@ -44,4 +44,4 @@ Apart from the above-mentioned libraries, there are multiple libraries/UI kits a
 
 I hope you like my post do follow me on Twitter for more amazing content related to Web2 and Web3.
 
-%[https://twitter.com/chopcoding/status/1480150119148568581]
+%[https://twitter.com/chopcoding/status/1490907504435335169]
