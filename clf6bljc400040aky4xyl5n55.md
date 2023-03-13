@@ -151,4 +151,4 @@ With the use of a Dockerfile, we've created a containerized environment with all
 
 By following these steps, we can easily debug our Flask application running inside a Docker container in VSCode, making it easier to identify and resolve any issues that may arise during development.
 
-If you'd like to try this out for yourself, you can check out our example repository at \[INSERT LINK HERE\] and see how we've implemented these techniques to debug a Flask application inside a Docker container using VSCode.
+If you'd like to try this out for yourself, you can check out our example repository at [repo](https://github.com/kartikpuri95/flask-vscode-debug)([https://github.com/kartikpuri95/flask-vscode-debug](https://github.com/kartikpuri95/flask-vscode-debug)) and see how we've implemented these techniques to debug a Flask application inside a Docker container using VSCode.
