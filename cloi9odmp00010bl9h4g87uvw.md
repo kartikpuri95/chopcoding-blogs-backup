@@ -264,7 +264,9 @@ The realm of data serialization and deserialization in Python has evolved consid
 3. **Custom Objects and Default Behaviors**: While `orjson` supports a broader range of types, there might still be a need for custom serialization methods for certain objects. Being cognizant of the default behaviors and differences is vital.
     
 
-In conclusion, while `orjson` presents numerous advantages, it's paramount for developers to weigh these benefits against the challenges. The decision to migrate should stem from a clear understanding of a project's specific needs and a thorough evaluation of how the library aligns with those requirements. Every tool has its unique strengths, and `orjson` is no exception. By carefully considering the project's demands and testing the waters before a full-fledged migration, developers can make the most of what `orjson` has to offer.
+In conclusion, while `orjson` presents numerous advantages, it's paramount for developers to weigh these benefits against the challenges. The decision to migrate should stem from a clear understanding of a project's specific needs and a thorough evaluation of how the library aligns with those requirements. Every tool has its unique strengths, and `orjson` is no exception. By carefully considering the project's demands and testing the waters before a full-fledged migration, developers can make the most of what `orjson` has to offer.  
+  
+orjson link : [https://github.com/ijl/orjson](https://github.com/ijl/orjson)
 
 You can connect me on :
 
